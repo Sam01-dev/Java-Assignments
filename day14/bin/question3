@@ -1,0 +1,9 @@
+Difference between finally and final keyword-
+
+The "finally" block is used to execute the necessary code of the program. It is
+executed whether an exception is handled or not.
+
+The final keyword is used for classes, variables or methods. If used the final keyword for a variable, the variable
+cannot be reassigned anymore/changed. If used for a class, it cannot be extended or inherited by any other class. and if for a 
+method then the method cannot be overwritten anywhere else.
+
